@@ -1,0 +1,9 @@
+txt
+
+langchain
+faiss-cpu
+sentence-transformers
+huggingface-hub
+gradio
+datasets
+python-dotenv
